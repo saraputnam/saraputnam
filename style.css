@@ -10,17 +10,11 @@ body {
 	float: right;
 }
 
-#button {
-	margin-left: 20%;
-	margin-right: 20%;
-	background-color: #213862;
-	border-radius: 15px;
-	height: 100px;
-}
-
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+	padding:1px;
+   	border:1px solid #021a40;
 }
 
 #content-contact {
