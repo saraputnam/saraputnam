@@ -29,6 +29,10 @@ body {
 	border-bottom: 1px solid #999;
 }
 
+#content-presentations {
+	line-height: 10px
+}
+
 .date {
 	float: right;
 }
@@ -42,7 +46,4 @@ h4{
 	margin-bottom: 0px;
 }
 
-ul-a {
-    list-style: none;
-}
 
