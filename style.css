@@ -9,7 +9,7 @@ body {
 #pic {
 	float: left;
    	border: 3px solid #A9A9A9;
-	margin: 0px 200px 0px 0px;
+	margin: 0px 100px 0px 0px;
 	height: 150px;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 #content-contact {
-	font-size: 42px;
+	font-size: 54px;
 	font-weight: bold;
 	float: center;
 }
