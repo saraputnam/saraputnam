@@ -9,7 +9,7 @@ body {
 #pic {
 	float: left;
    	border: 3px solid #A9A9A9;
-	padding: -1px;
+	padding: -1px 0px 200px 0px;
 	height: 150px;
 }
 
@@ -22,12 +22,10 @@ body {
 	font-size: 42px;
 	font-weight: bold;
 	float: center;
-	padding: 0 500px 0  0;
 }
 
 #content-body {
 	float: center;
-	padding: 0 500px 0  0;
 }
 
 #content-professionalheader {
