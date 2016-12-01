@@ -43,12 +43,10 @@ body {
 
 #content-presentations {
 	padding: 5px 0 5px 0;
+	font: 14px;
 }
 
-#content-presentations2 {
-	padding: 5px 0 5px 0;
-	margin: auto 300px auto auto;
-}
+
 
 .date {
 	float: right;
