@@ -8,8 +8,9 @@ body {
 
 #pic {
 	float: right;
-   	border: 1px solid #021a40;
-	size: 80px auto;
+   	border: 2px solid #00FFFF;
+	padding: 1px;
+	height: 100px;
 }
 
 #container {
