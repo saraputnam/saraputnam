@@ -21,7 +21,11 @@ body {
 #content-contact {
 	font-size: 42px;
 	font-weight: bold;
-	float: right;
+	float: center;
+}
+
+#content-body {
+	float: center;
 }
 
 #content-professionalheader {
