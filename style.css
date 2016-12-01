@@ -43,7 +43,11 @@ body {
 
 #content-presentations {
 	padding: 5px 0 5px 0;
-	margin: auto 200px auto auto;
+}
+
+#content-presentations2 {
+	padding: 5px 0 5px 0;
+	margin: auto 300px auto auto;
 }
 
 .date {
