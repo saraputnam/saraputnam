@@ -22,10 +22,12 @@ body {
 	font-size: 42px;
 	font-weight: bold;
 	float: center;
+	padding: 0 20px 0  0;
 }
 
 #content-body {
 	float: center;
+	padding: 0 20px 0  0;
 }
 
 #content-professionalheader {
