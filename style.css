@@ -29,6 +29,12 @@ body {
 	border-bottom: 1px solid #999;
 }
 
+#content-professionalheader2 {
+	font-size: 28px;
+	padding: 20px 0 0 0;
+	border-bottom: 1px solid #999;
+}
+
 #content-presentations {
 	padding: 20px 0 5px 0;
 }
