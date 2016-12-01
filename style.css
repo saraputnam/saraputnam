@@ -41,3 +41,13 @@ h4{
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+
+ul.a {
+    padding: 5px;
+}
+
+ul.b {
+    list-style-type: none;
+	margin-bottom: 5px;
+}
+
