@@ -30,7 +30,7 @@ body {
 }
 
 #content-presentations {
-	line-height: 30px
+	padding: 20px 0 5px 0;
 }
 
 .date {
