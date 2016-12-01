@@ -11,7 +11,6 @@ body {
 	margin-left: 40%;
 	margin-right: 40%;
 	background-color: #213862;
-
 	border-radius: 15px;
 	height: 100px;
 }
@@ -26,28 +25,21 @@ body {
 	padding: 0 0 16px 0;
 	font-size: 42px;
 	font-weight: bold;
-	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
-}
-
-#content-summarycontent {
-	margin: 0 0 16px 0;
-	padding: 0 0 32px 0;
-
-	font-style: italic;
-	font-size: 20px;
 }
 
 #content-professionalheader {
 	font-size: 28px;
+	margin-left: 40%;
+	margin-right: 40%;
 }
 
 .date {
 	float: right;
 }
 
-h3 {
-	border-bottom: 1px solid #999;
+.city {
+	float: right;
 }
 
 h4{
