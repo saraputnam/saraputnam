@@ -1,6 +1,6 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
-	background: <a href="http://www.freepik.com/free-photos-vectors/background">Background vector designed by Kjpargeter - Freepik.com</a>;
+	background-image: URL("http://www.freepik.com/free-photos-vectors/background")<a href="http://www.freepik.com/free-photos-vectors/background">Background vector designed by Kjpargeter - Freepik.com</a>;
 }
 
 #pic {
