@@ -3,7 +3,8 @@ body {
 	background-image: url("saraputnam.github.io/abstract-background-with-a-watercolor-texture_1048-2144.jpg");
     	background-size: 1000px 100%;
 	background-repeat: no-repeat;
-	background-position: center; 
+	background-position: center;
+	opacity: 0.5;
 }
 
 #pic {
