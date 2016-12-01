@@ -8,13 +8,13 @@ body {
 
 #pic {
 	float: right;
+	padding:1px;
+   	border:1px solid #021a40;
 }
 
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	padding:1px;
-   	border:1px solid #021a40;
 }
 
 #content-contact {
