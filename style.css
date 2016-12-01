@@ -1,8 +1,8 @@
 body {
 	font: 16px Helvetica, Sans-Serif;
 	background-image: url("saraputnam.github.io/modern-abstract-background_1048-1003.jpg");
-    	background-size: 600px auto;
-	padding: 0px 30px 0px 30px;
+    	background-size: 1000px auto;
+	background-repeat: no-repeat;
 }
 
 #pic {
