@@ -21,7 +21,7 @@ body {
 }
 
 #content-contact {
-	padding: 0 0 10px 0;
+	padding: 0 0 5px 0;
 	font-size: 42px;
 	font-weight: bold;
 	border-bottom: 1px solid #999;
@@ -29,7 +29,7 @@ body {
 
 #content-professionalheader {
 	font-size: 28px;
-	padding: 10px 0 10px 0;
+	padding: 20px 0 5px 0;
 	border-bottom: 1px solid #999;
 }
 
