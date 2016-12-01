@@ -43,7 +43,6 @@ h4{
 }
 
 ul.b {
-    list-style-type: none;
-	margin-bottom: 5px;
+    list-style: none;
 }
 
